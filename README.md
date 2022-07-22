@@ -35,7 +35,7 @@ git pull origin <내 로컬 브랜치>
 - git : One-armed-boy
 
 - 추가: push 해보겠습니다!
-
+- stash test!!!
 
 - #### J164
 
